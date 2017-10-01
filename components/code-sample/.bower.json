@@ -1,0 +1,43 @@
+{
+  "name": "code-sample",
+  "authors": [
+    "Kus Cámara <kus.camara@gmail.com>"
+  ],
+  "description": "Wrapper element for highlight.js",
+  "main": "code-sample.html",
+  "keywords": [
+    "polymer",
+    "web-component",
+    "syntax highlighting",
+    "highlight.js",
+    "highlight",
+    "code",
+    "pre",
+    "theme"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^2.0.0"
+  },
+  "devDependencies": {
+    "web-component-tester": "^6.0.0",
+    "iron-test-helpers": "PolymerElements/iron-test-helpers#^2.0.0",
+    "transburger-icon": "^3.0.1"
+  },
+  "license": "https://github.com/kcmr/code-sample/LICENSE.md",
+  "homepage": "https://github.com/kcmr/code-sample/",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kcmr/code-sample.git"
+  },
+  "ignore": [],
+  "_release": "36a095e9a9",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "36a095e9a9d1e1e70f83d9fe2d76ec44a8770b0c"
+  },
+  "_source": "https://github.com/kcmr/code-sample.git",
+  "_target": "master",
+  "_originalSource": "https://github.com/kcmr/code-sample.git",
+  "_direct": true
+}
